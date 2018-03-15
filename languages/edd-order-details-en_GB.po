@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Order Details\n"
+"POT-Creation-Date: 2017-12-24 17:02+0000\n"
+"PO-Revision-Date: 2017-12-24 17:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: edd-order-details.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: edd-order-details.php:153
+msgid ""
+"EDD Order Details requires Easy Digital Downloads Version 2.7.11 or greater. "
+"Please update or install Easy Digital Downloads."
+msgstr ""
+
+#: edd-order-details.php:162
+msgid ""
+"EDD Order Details requires Frontend Submissions Version 2.5.2 or greater. "
+"Please update or install Frontend Submissions."
+msgstr ""
+
+#: edd-order-details.php:210
+msgid "Nonce verification failed"
+msgstr ""
+
+#: edd-order-details.php:210
+msgid "Error"
+msgstr ""
+
+#: edd-order-details.php:264
+msgid "Export Orders"
+msgstr ""
+
+#: edd-order-details.php:271
+msgid "Download CSV"
+msgstr ""
+
+#: edd-order-details.php:288
+msgid "Order Details"
+msgstr ""
+
+#: edd-order-details.php:303
+msgid "General Settings"
+msgstr ""
+
+#: edd-order-details.php:308
+msgid "Disable Customer Data"
+msgstr ""
+
+#: edd-order-details.php:309
+msgid ""
+"Check to remove personally identifiable customer data from the exported CSV "
+"file. The customer username is still included for support purposes."
+msgstr ""
+
+#: edd-order-details.php:314
+msgid "Disable Payment Meta"
+msgstr ""
+
+#: edd-order-details.php:315
+msgid ""
+"Check to remove Gateway, Key and Transaction ID metadata from the exported "
+"CSV file."
+msgstr ""
+
+#: edd-order-details.php:320
+msgid "Disable Tax Data"
+msgstr ""
+
+#: edd-order-details.php:321
+msgid "Check to remove Tax Rate and Amount from the exported CSV file."
+msgstr ""
+
+#: edd-order-details.php:326
+msgid "Disable Commission Data"
+msgstr ""
+
+#: edd-order-details.php:327
+msgid ""
+"Check to remove Commission Amount, Rate and Status from the exported CSV "
+"file."
+msgstr ""
+
+#: edd-order-details.php:332
+msgid "Tweaks"
+msgstr ""
+
+#: edd-order-details.php:337
+msgid "Enable Unique Identifiers"
+msgstr ""
+
+#: edd-order-details.php:338
+msgid ""
+"Check to enable Download, Customer and Commission IDs on the exported CSV "
+"file. Useful for debugging and support purposes."
+msgstr ""
+
+#: edd-order-details.php:343
+msgid "Enable Username"
+msgstr ""
+
+#: edd-order-details.php:344
+msgid ""
+"Check to enable username on the exported CSV file. Useful for debugging and "
+"support purposes."
+msgstr ""
+
+#: edd-order-details.php:349
+msgid "Enable Service Fee"
+msgstr ""
+
+#: edd-order-details.php:350
+msgid ""
+"Check to enable an optional “Service Fee” column which calculates the "
+"commission amount the store charges its vendors for facilitating the "
+"transaction (similar to Envato, Etsy, etc.)."
+msgstr ""
+
+#: edd-order-details.php:352
+msgid "Store Service Fees"
+msgstr ""
+
+#: edd-order-details.php:353
+msgid ""
+"The service fee calculation is based on the Easy Digital Downloads - "
+"Commissions Calculation Base setting."
+msgstr ""
+
+#: includes/edd-orders-export.php:77
+msgid "Payment ID"
+msgstr ""
+
+#: includes/edd-orders-export.php:78
+msgid "Date/Time"
+msgstr ""
+
+#: includes/edd-orders-export.php:79
+msgid "Full Name"
+msgstr ""
+
+#: includes/edd-orders-export.php:80
+msgid "Email"
+msgstr ""
+
+#: includes/edd-orders-export.php:81
+msgid "Customer ID"
+msgstr ""
+
+#: includes/edd-orders-export.php:82
+msgid "Username"
+msgstr ""
+
+#: includes/edd-orders-export.php:83
+msgid "User"
+msgstr ""
+
+#: includes/edd-orders-export.php:84
+msgid "Street Address Line 1"
+msgstr ""
+
+#: includes/edd-orders-export.php:85
+msgid "Street Address Line 2"
+msgstr ""
+
+#: includes/edd-orders-export.php:86
+msgid "City"
+msgstr ""
+
+#: includes/edd-orders-export.php:87
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: includes/edd-orders-export.php:88
+msgid "Country Name"
+msgstr ""
+
+#: includes/edd-orders-export.php:89
+msgid "State / Province"
+msgstr ""
+
+#: includes/edd-orders-export.php:90
+msgid "Download ID"
+msgstr ""
+
+#: includes/edd-orders-export.php:91
+msgid "Download Title"
+msgstr ""
+
+#: includes/edd-orders-export.php:92
+msgid "Payment Status"
+msgstr ""
+
+#: includes/edd-orders-export.php:93
+msgid "Discount Code"
+msgstr ""
+
+#: includes/edd-orders-export.php:94
+msgid "Price"
+msgstr ""
+
+#: includes/edd-orders-export.php:95
+msgid "Quantity"
+msgstr ""
+
+#: includes/edd-orders-export.php:96
+msgid "Discount"
+msgstr ""
+
+#: includes/edd-orders-export.php:97
+msgid "Subtotal"
+msgstr ""
+
+#: includes/edd-orders-export.php:98
+msgid "Tax Rate (%)"
+msgstr ""
+
+#: includes/edd-orders-export.php:99
+msgid "Tax"
+msgstr ""
+
+#: includes/edd-orders-export.php:100
+msgid "Total"
+msgstr ""
+
+#: includes/edd-orders-export.php:101
+msgid "Payment Gateway"
+msgstr ""
+
+#: includes/edd-orders-export.php:102
+msgid "Currency"
+msgstr ""
+
+#: includes/edd-orders-export.php:103
+msgid "Purchase Key"
+msgstr ""
+
+#: includes/edd-orders-export.php:104
+msgid "Transaction ID"
+msgstr ""
+
+#: includes/edd-orders-export.php:105
+msgid "Seller Fee"
+msgstr ""
+
+#: includes/edd-orders-export.php:106
+msgid "Commission Amount"
+msgstr ""
+
+#: includes/edd-orders-export.php:107
+msgid "Commission Rate"
+msgstr ""
+
+#: includes/edd-orders-export.php:108
+msgid "Commission Status"
+msgstr ""
+
+#: includes/edd-orders-export.php:109
+msgid "Commission ID"
+msgstr ""
+
+#: includes/edd-orders-export.php:110
+msgid "Order Notes"
+msgstr ""
+
+#: includes/edd-orders-export.php:111
+msgid "Site"
+msgstr ""
+
+#: includes/edd-orders-export.php:262
+msgid "guest"
+msgstr ""
+
+#: includes/edd-orders-export.php:291
+msgid "None"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Digital Downloads - Order Details"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://sellcomet.com/downloads/order-details/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Allow your vendors to export comprehensive order information."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sell Comet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sellcomet.com"
+msgstr ""
